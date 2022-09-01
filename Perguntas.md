@@ -78,3 +78,30 @@ Como realizar a etapa de Levantamento de Requisitos
     - Desenvolvem estratégias para dar rumo ao negócio.
 
     Geralmente utilizam meses, anos. Ele olha para fora da empresa.
+
+- Os usuários vão precisar de nível de permissionamento? 
+    Esta pergunta é **crucial** para o desenvolvimento do DW, Governança de dados
+
+- Como gostaria de ver estes dados? Relatórios? Dashboards? Análises?
+    - Se forem Dashboards, serão utilizados somente para consulta virtual, ou serão impressos também?
+
+- Quer ter a liberdade para montar seus próprios relatórios quando necessário?
+
+## LGPD - Lei Geral de Proteção de Dados
+
+- Quais são as políticas de segurança de dados da empresa?
+
+- Existe alguma diretriz? Quais?
+
+- Qual é a política em relação ao período de retenção dos dados? 
+
+- Qual as fontes de dados? 
+    - SGBD (Sistema de Gerenciamento do Banco de Dados)
+    - Excel
+    - PDF
+    - CRM (Customer Relationship Management)
+    - ERP (Enterprise Resource Planning)
+    - Entre outros
+
+- Qual o volume de dados?
+    - Quanto de unformação entra no banco de dados diariamente
